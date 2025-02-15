@@ -37,6 +37,7 @@ sudo ./ftp_server.sh
 Usage:
 
 After running the script, you'll see a menu with the following options:
+
 1: Start FTP server
 
 2: Stop FTP server
