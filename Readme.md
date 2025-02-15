@@ -32,21 +32,39 @@ sudo ./ftp_server.sh
 
 
 
+
+
 Usage:
 
 After running the script, you'll see a menu with the following options:
 1: Start FTP server
+
 2: Stop FTP server
+
 3: Restart FTP server
+
 4: Exit
+
 af <path>: Set access to a specific folder (e.g., af /home/ftpdata).
 
 
+
+————————————————————————————————————————————————
+
+
+
 Default FTP Server Details:
+
 Server IP: Displayed during runtime
+
 Port: 21
+
 Username: ftp
+
 Password: ftpserver
+
+
+
 
 
 Notes:
